@@ -1,0 +1,16 @@
+.chores {
+    font-size: 1.3vw;
+    color: green;
+    border-style: double;
+    border-color: cadetblue;
+    border-radius: 5px;
+
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
